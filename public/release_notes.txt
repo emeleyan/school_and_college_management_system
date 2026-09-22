@@ -1,0 +1,15 @@
+=========================================
+SCHOOL & COLLEGE ERP UPDATE PACKAGE v2.4.1
+=========================================
+Release Date: 2026-09-17T17:09:54.304Z
+Target Environment: Offline Standalone Application
+
+Changelog:
+- Enhanced In-App Version Updater with Database File Exclusion Filter
+- Optimized Exam Mark Entry and Tabulation Sheets
+- Certificate & ID Card custom template background support
+- High-speed offline IndexedDB database preservation verified
+
+NOTE: Existing institutional database, students, transactions,
+and credentials are NOT touched during this update.
+=========================================

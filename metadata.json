@@ -1,0 +1,6 @@
+{
+  "name": "School & College Management ERP",
+  "description": "Offline-first dual-institute ERP system for School and College management with IndexedDB storage, In-App Version Updater, Comprehensive Demo Data Seeding & 1-Click Purge, Live Mode Lockout, Daily 11:59 PM Automated Backup Scheduler, and Granular Specific Action Undo Hub.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

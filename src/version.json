@@ -1,0 +1,9 @@
+{
+  "version": "2.4.1",
+  "releaseDate": "2026-09-17",
+  "buildNumber": "1789664994336-offline-update",
+  "previousVersion": "2.4.0",
+  "databaseEngine": "IndexedDB + Offline File Storage",
+  "lastUpdated": "2026-09-17T17:09:54.336Z",
+  "releaseNotes": "Sample Official Update 2.4.1: Performance improvements, exam marksheet enhancements, and UI stability updates."
+}
